@@ -69,7 +69,7 @@ export default async function handler(req, res) {
       caption: welcomeMsg,
       reply_markup: {
         inline_keyboard: [
-          [{ text: "▶ Open App", web_app: { url: "https://khanbhai009-cloud.github.io/Telegram-bot-web" } }],
+          [{ text: "▶ Open App", web_app: { url: "https://samiryoucant.github.io/Tg/" } }],
           [{ text: "📢 Channel", url: "https://t.me/dragonballz0928" }]
         ]
       }
