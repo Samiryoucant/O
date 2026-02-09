@@ -1,0 +1,9 @@
+{
+  "name": "samir-task-bot",
+  "version": "1.0.0",
+  "main": "api/telegram.js",
+  "dependencies": {
+    "firebase": "^10.0.0",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
